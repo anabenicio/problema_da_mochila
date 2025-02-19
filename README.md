@@ -2,7 +2,7 @@
 
 **Disciplina:** Projeto e a Análise de Algoritmos
 
-**Professor:** Thiago
+**Professor:** Thiago Alves Rocha
 
 
 # Problema da Mochila
@@ -107,3 +107,11 @@ Onde:
 | Complexidade      | O(n⋅W)    |     O(n⋅W)         |
 | Aplicações      | Escolha de investimentos, seleção de projetos    |      Produção em lotes, corte de materiais.       |
 | Exemplo      | Incluir itens únicos em uma mochila.     |     Incluir múltiplas cópias de um item na mochila.        |
+
+
+
+## Links úteis
+| Descrição | Link |
+|--|--|
+| Apresentação |  [Abrir Apresentação](https://drive.google.com/file/d/14MYV4qud4gyC0aKSwfOtst1JJ8821gb0/view?usp=sharing)
+ Resultados do Trabalho|
