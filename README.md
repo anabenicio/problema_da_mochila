@@ -97,3 +97,13 @@ Onde:
 -   Capacidade da mochila:  W=50.
     
 -   Solução ótima: Incluir o item 1 cinco vezes, com valor total  300.
+
+
+## Diferenças entre as mochilas
+
+| **Características** | **Mochila sem Repetição**| **Mochila com Repetição** |
+| -------- | ----- | ----------- |
+| Inclusão de Itens       | Cada item pode ser incluído no máximo uma vez.     | Cada item pode ser incluído múltiplas vezes.     |
+| Complexidade      | O(n⋅W)    |     O(n⋅W)         |
+| Aplicações      | Escolha de investimentos, seleção de projetos    |      Produção em lotes, corte de materiais.       |
+| Exemplo      | Incluir itens únicos em uma mochila.     |     Incluir múltiplas cópias de um item na mochila.        |
